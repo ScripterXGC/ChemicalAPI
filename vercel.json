@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "rewrites": [
-    { "source": "/images/:path*", "destination": "/api/images/:path*" }  // Example rewrite
-  ],
-  "trailingSlash": false
-}
